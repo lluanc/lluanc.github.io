@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>color icon 2</title>
+    <defs>
+        <filter x="-52.5%" y="-52.5%" width="205.0%" height="205.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="7" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-/-Home-A" transform="translate(-64.000000, -3448.000000)">
+            <g id="color-icon-2" transform="translate(80.000000, 3457.000000)">
+                <rect id="Rectangle" fill="#940dff" opacity="0.3" filter="url(#filter-1)" x="5" y="12" width="40" height="40" rx="8"></rect>
+                <rect id="Rectangle" fill="#940dff" x="0" y="0" width="50" height="50" rx="8"></rect>
+                <g filter="url(#filter-2)" id="calendar-schedule.7">
+                    <g transform="translate(8.000000, 7.000000) scale(1.5)">
+                        <path d="M0,0H24V24H0Z" fill="none"/>
+                        <path d="M17.22611,15.15749,17,15.38708l-.22614-.22962a2.18706,2.18706,0,0,0-3.12635,0h0a2.2692,2.2692,0,0,0,0,3.17449l2.11508,2.14762a1.73131,1.73131,0,0,0,2.47486,0L20.35249,18.332a2.2692,2.2692,0,0,0,0-3.17451h0A2.18708,2.18708,0,0,0,17.22611,15.15749Z" fill="none" stroke="#323232" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+                        <path d="M10,15H7a4,4,0,0,0-4,4v1" fill="none" stroke="#323232" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+                        <circle cx="11" cy="7.00001" r="4" fill="none" stroke="#323232" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

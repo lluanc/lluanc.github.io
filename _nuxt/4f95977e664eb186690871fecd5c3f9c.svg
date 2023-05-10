@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon 3</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Internas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9-Copy">
+            <rect id="Rectangle" fill="#63E1A5" x="0" y="0" width="50" height="50" rx="8"></rect>
+            <g filter="url(#filter-1)" id="Interaction,-Teamwork,-Group">
+                <g transform="translate(7.000000, 7.000000)">
+                    <polygon id="Path" points="0 0 36 0 36 36 0 36"></polygon>
+                    <path d="M13.8375,8.678 L13.8375,8.678 C13.8375,6.38 15.7005,4.5155 18,4.5155 L18,4.5155 C20.298,4.5155 22.1625,6.3785 22.1625,8.678 L22.1625,8.678 C22.1625,10.976 20.2995,12.8405 18,12.8405 L18,12.8405 C15.7005,12.8375 13.8375,10.9745 13.8375,8.678 Z" id="Path" stroke="#323232" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M3.75,25.322 L3.75,25.322 C3.75,23.024 5.613,21.1595 7.9125,21.1595 L7.9125,21.1595 C10.2105,21.1595 12.075,23.0225 12.075,25.322 L12.075,25.322 C12.0735,27.62 10.212,29.4845 7.9125,29.4845 L7.9125,29.4845 C5.613,29.4845 3.75,27.6215 3.75,25.322 Z" id="Path" stroke="#323232" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M23.9265,25.322 L23.9265,25.322 C23.9265,23.024 25.7895,21.1595 28.089,21.1595 L28.089,21.1595 C30.387,21.1595 32.2515,23.0225 32.2515,25.322 L32.2515,25.322 C32.2515,27.62 30.3885,29.4845 28.089,29.4845 L28.089,29.4845 C25.788,29.4845 23.9265,27.6215 23.9265,25.322 L23.9265,25.322 Z" id="Path" stroke="#323232" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <line x1="12.735" y1="16.88" x2="9.72" y2="21.59" id="Path" stroke="#323232" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="20.25" y1="12.17" x2="23.265" y2="16.88" id="Path" stroke="#323232" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="23.925" y1="25.325" x2="18" y2="25.325" id="Path" stroke="#323232" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

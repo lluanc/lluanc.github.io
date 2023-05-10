@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tools-settings</title>
+    <g id="Color-November-2022" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-/-Home---Página-de-Preço-Color-November" transform="translate(-122.000000, -1231.000000)">
+            <g id="Group-12-Copy-3" transform="translate(80.000000, 1190.000000)">
+                <g id="Group-19" transform="translate(32.000000, 32.000000)">
+                    <g id="tools-settings" transform="translate(7.000000, 7.000000)">
+                        <polygon id="Path" opacity="0" points="0 0 36 0 36 36 0 36"></polygon>
+                        <circle id="Oval" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" cx="26.25" cy="24.75" r="6.75"></circle>
+                        <line x1="10.5" y1="15" x2="16.5" y2="15" id="Path" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="11.25" y1="3" x2="11.25" y2="7.5" id="Path" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="24.75" y1="3" x2="24.75" y2="7.5" id="Path" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <path d="M15,30 L9,30 C6.51471863,30 4.5,27.9852814 4.5,25.5 L4.5,9.75 C4.5,7.26471863 6.51471863,5.25 9,5.25 L27,5.25 C29.4852814,5.25 31.5,7.26471863 31.5,9.75 L31.5,13.5" id="Path" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="10.5" y1="21" x2="12" y2="21" id="Path" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <polyline id="Path" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="26.0895 22.47489 26.0895 25.105275 28.1628 26.37"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

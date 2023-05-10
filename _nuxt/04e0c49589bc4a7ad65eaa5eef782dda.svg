@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>color icon 3</title>
+    <defs>
+        <filter x="-52.5%" y="-52.5%" width="205.0%" height="205.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="7" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-/-Home-A" transform="translate(-784.000000, -3686.000000)">
+            <g id="color-icon-3" transform="translate(800.000000, 3695.000000)">
+                <rect id="Rectangle" fill="#63E1A5" opacity="0.3" filter="url(#filter-1)" x="5" y="12" width="40" height="40" rx="8"></rect>
+                <rect id="Rectangle" fill="#63E1A5" x="0" y="0" width="50" height="50" rx="8"></rect>
+                <g filter="url(#filter-2)" id="done-check-notes">
+                    <g transform="translate(7.000000, 7.000000)">
+                        <polygon id="Path" points="0 0 36 0 36 36 0 36"></polygon>
+                        <line x1="16.5" y1="7.5" x2="31.5" y2="7.5" id="Path" stroke="#940DFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="16.5" y1="18" x2="31.5" y2="18" id="Path" stroke="#940DFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="16.5" y1="28.5" x2="31.5" y2="28.5" id="Path" stroke="#940DFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <polyline id="Path" stroke="#FF4B8C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="4.53 27.762 7.0095 29.994 12 25.5"></polyline>
+                        <path d="M9.621315,5.378685 C10.7928885,6.5502585 10.7928885,8.449755 9.621315,9.62133 C8.4497415,10.7929035 6.550245,10.7929035 5.37867,9.62133 C4.2070965,8.4497565 4.2070965,6.55026 5.37867,5.378685 C6.5502435,4.2071115 8.44974,4.2071115 9.621315,5.378685" id="Path" stroke="#940DFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M9.621315,15.8787 C10.7928885,17.0502735 10.7928885,18.94977 9.621315,20.121345 C8.4497415,21.2929185 6.550245,21.2929185 5.37867,20.121345 C4.2070965,18.9497715 4.2070965,17.050275 5.37867,15.8787 C6.5502435,14.7071265 8.44974,14.7071265 9.621315,15.8787" id="Path" stroke="#940DFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

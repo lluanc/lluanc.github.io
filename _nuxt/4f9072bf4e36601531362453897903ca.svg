@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon 1</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Internas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9">
+            <rect id="Rectangle" fill="#940DFF" x="0" y="0" width="50" height="50" rx="8"></rect>
+            <g filter="url(#filter-1)" id="checklist">
+                <g transform="translate(6.000000, 6.000000)">
+                    <polygon id="Path" points="36 36 0 36 0 0 36 0"></polygon>
+                    <g id="Group" stroke-linecap="round" stroke-linejoin="round" transform="translate(4.500000, 4.500000)" stroke="#323232" stroke-width="1.5">
+                        <line x1="18" y1="10.5" x2="27" y2="10.5" id="Path"></line>
+                        <line x1="18" y1="3" x2="27" y2="3" id="Path"></line>
+                        <line x1="27" y1="18" x2="9" y2="18" id="Path"></line>
+                        <line x1="27" y1="25.5" x2="9" y2="25.5" id="Path"></line>
+                        <path d="M2.61,17.625 L2.595,17.625 C2.385,17.625 2.22,17.79 2.22,18 C2.22,18.195 2.385,18.36 2.595,18.36 C2.79,18.345 2.955,18.18 2.955,17.97 C2.94,17.76 2.775,17.595 2.58,17.595 L2.565,17.595" id="Path"></path>
+                        <path d="M2.61,25.125 L2.595,25.125 C2.385,25.125 2.22,25.29 2.22,25.5 C2.22,25.695 2.385,25.86 2.595,25.86 C2.79,25.845 2.955,25.68 2.955,25.47 C2.94,25.26 2.775,25.095 2.58,25.095 L2.565,25.095" id="Path"></path>
+                        <line x1="9.135" y1="7.2" x2="6.3" y2="7.2" id="Path"></line>
+                        <line x1="6.3" y1="7.2" x2="6.3" y2="3.78" id="Path"></line>
+                        <path d="M6.75,-1.33226763e-15 C3.02207794,-1.33226763e-15 -1.33226763e-15,3.02207794 -1.33226763e-15,6.75 C-1.33226763e-15,10.4779221 3.02207794,13.5 6.75,13.5 C10.4779221,13.5 13.5,10.4779221 13.5,6.75 C13.5,3.02207794 10.4779221,-1.33226763e-15 6.75,-1.33226763e-15 L6.75,-1.33226763e-15 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

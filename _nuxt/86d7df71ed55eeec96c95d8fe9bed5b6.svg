@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>color icon 1</title>
+    <defs>
+        <filter x="-52.5%" y="-52.5%" width="205.0%" height="205.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="7" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-/-Home-A" transform="translate(-784.000000, -3236.000000)">
+            <g id="color-icon-1" transform="translate(800.000000, 3245.000000)">
+                <rect id="Rectangle" fill="#940DFF" opacity="0.3" filter="url(#filter-1)" x="5" y="12" width="40" height="40" rx="8"></rect>
+                <rect id="Rectangle" fill="#940DFF" x="0" y="0" width="50" height="50" rx="8"></rect>
+                <g filter="url(#filter-2)" id="User,Profile.9">
+                    <g transform="translate(7.000000, 7.000000)">
+                        <g id="Group" stroke-linecap="round" stroke-linejoin="round" transform="translate(4.500000, 4.500000)" stroke-width="1.5">
+                            <path d="M4.5,23.376 C6.8535,21.0885 10.038,19.6815 13.5345,19.6815 C16.9965,19.6815 20.1465,21.06 22.5,23.3055 C20.1465,25.593 16.962,27 13.4655,27 C10.0035,27 6.8535,25.6215 4.5,23.376 Z" id="Path" stroke="#FF4B8C"></path>
+                            <path d="M1.4625,19.5375 C0.5475,17.7165 0,15.678 0,13.5 C0,6.039 6.039,-2.66453526e-15 13.5,-2.66453526e-15 C20.961,-2.66453526e-15 27,6.039 27,13.5 C27,15.675 26.4555,17.715 25.5345,19.5345" id="Path" stroke="#940DFF"></path>
+                            <path d="M16.68195,7.31802 C18.439305,9.075375 18.439305,11.924625 16.68195,13.68198 C14.924595,15.439335 12.075345,15.439335 10.31799,13.68198 C8.560635,11.924625 8.560635,9.075375 10.31799,7.31802 C12.075345,5.560665 14.924595,5.560665 16.68195,7.31802" id="Path" stroke="#FF4B8C"></path>
+                        </g>
+                        <polygon id="Path" points="0 0 36 0 36 36 0 36"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

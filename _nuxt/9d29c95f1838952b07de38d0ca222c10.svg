@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CA20987E-147C-4CF5-A3FC-9B27DE50E7B5</title>
+    <g id="Preço" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="Desktop-/-Home---Página-de-Preço-v7" transform="translate(-768.000000, -665.000000)">
+            <g id="Group-9" transform="translate(760.000000, 655.000000)">
+                <g id="Group-9-Copy-3" transform="translate(0.000000, 2.000000)">
+                    <g id="chart-square.1" style="mix-blend-mode: overlay;" transform="translate(8.000000, 8.000000)">
+                        <g id="Group" stroke-linecap="round" stroke-linejoin="round" transform="translate(3.000000, 3.000000)" stroke="#FFFFFF" stroke-width="1.5">
+                            <path d="M14,18 L4,18 C1.791,18 0,16.209 0,14 L0,4 C0,1.791 1.791,0 4,0 L14,0 C16.209,0 18,1.791 18,4 L18,14 C18,16.209 16.209,18 14,18 Z" id="Path"></path>
+                            <polyline id="Path" points="0 12 7 7 11 11 18 6"></polyline>
+                        </g>
+                        <polygon id="Path" opacity="0" points="0 0 24 0 24 24 0 24"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

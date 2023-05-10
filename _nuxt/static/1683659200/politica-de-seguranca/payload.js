@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/politica-de-seguranca", {data:[{}],fetch:{},mutations:void 0});

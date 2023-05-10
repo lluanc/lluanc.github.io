@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>color icon 1</title>
+    <defs>
+        <filter x="-52.5%" y="-52.5%" width="205.0%" height="205.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="7" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-/-Home-A" transform="translate(-784.000000, -3236.000000)">
+            <g id="color-icon-1" transform="translate(800.000000, 3245.000000)">
+                <rect id="Rectangle" fill="#940dff" opacity="0.3" filter="url(#filter-1)" x="5" y="12" width="40" height="40" rx="8"></rect>
+                <rect id="Rectangle" fill="#940dff" x="0" y="0" width="50" height="50" rx="8"></rect>
+                <g filter="url(#filter-2)" id="User,Profile.9">
+                    <g transform="translate(7.000000, 7.000000)">
+                        <g id="Group" stroke-linecap="round" stroke-linejoin="round" transform="translate(-0.500000, 1.000000) scale(1.5)" stroke-width="1">
+                            <g stroke-linecap="round" stroke-width="1" stroke="#323232" fill="none" stroke-linejoin="round">
+                            <line x1="15" x2="9" y1="15.19" y2="15.19"></line>
+                            <path d="M8.541 14.896c-1.776-1.255-2.841-3.446-2.466-5.858 .406-2.607 2.579-4.688 5.2-4.995 3.638-.427 6.725 2.405 6.725 5.957 0 2.025-1.006 3.812-2.543 4.898 -.276.195-.457.497-.457.835v2.767c0 1.381-1.119 2.5-2.5 2.5h-1c-1.381 0-2.5-1.119-2.5-2.5v-2.763c0-.341-.182-.645-.459-.841Z"></path>
+                            <line x1="20" x2="21.19" y1="5" y2="3.81"></line>
+                            <line x1="4" x2="2.81" y1="15" y2="16.19"></line><line x1="5" x2="3.81" y1="4" y2="2.81"></line>
+                            <line x1="20" x2="21.19" y1="15" y2="16.19"></line>
+                            <line x1="21" x2="22.69" y1="10" y2="10"></line>
+                            <line x1="1.31" x2="3" y1="10" y2="10"></line>
+                            <line x1="9" x2="14.87" y1="18" y2="18"></line>
+                            </g>
+                            <path fill="none" d="M0 0h24v24h-24v-24Z"></path>
+                        </g>
+                        <polygon id="Path" points="0 0 36 0 36 36 0 36"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

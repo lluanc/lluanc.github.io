@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>done-check copy 15</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page_Desktop" transform="translate(-1213.000000, -1816.000000)">
+            <g id="Group-12" transform="translate(80.000000, 1181.000000)">
+                <g id="Group-2" transform="translate(0.000000, 183.000000)">
+                    <g id="Group-5-Copy-2" transform="translate(1133.000000, 122.000000)">
+                        <g id="done-check-copy-15" transform="translate(0.000000, 330.000000)">
+                            <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                            <path d="M12,21 L12,21 C7.029,21 3,16.971 3,12 L3,12 C3,7.029 7.029,3 12,3 L12,3 C16.971,3 21,7.029 21,12 L21,12 C21,16.971 16.971,21 12,21 Z" id="Path" stroke="#63E1A5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <polyline id="Path" stroke="#63E1A5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="16 10 11 15 8 12"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

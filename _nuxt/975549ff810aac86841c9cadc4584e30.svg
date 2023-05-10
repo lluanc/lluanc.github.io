@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon 2</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Internas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9-Copy">
+            <rect id="Rectangle" fill="#FF4BB7" x="0" y="0" width="50" height="50" rx="8"></rect>
+            <g filter="url(#filter-1)" id="single-user-message-chat">
+                <g transform="translate(7.000000, 7.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="36" height="36"></rect>
+                    <circle id="Oval" stroke="#323232" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" cx="18" cy="14.25" r="3.75"></circle>
+                    <path d="M11.25,24 C11.8453646,22.6341007 13.1933967,21.7507013 14.68341,21.75 L21.31659,21.75 C22.8066033,21.7507013 24.1546354,22.6341007 24.75,24" id="Path" stroke="#323232" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M6.94338,25.74552 C2.92647756,20.0123325 3.9585065,12.1597714 9.3203889,7.65919795 C14.6822713,3.15862455 22.5948519,3.50339857 27.54495,8.45329479 C32.4950481,13.403191 32.8401448,21.3157575 28.3397901,26.6778235 C23.8394354,32.0398894 15.9869163,33.0722386 10.253565,29.05557 L5.99766,30.001245 L6.94338,25.74552 Z" id="Path" stroke="#323232" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/software-de-rh", {data:[{}],fetch:{},mutations:void 0});

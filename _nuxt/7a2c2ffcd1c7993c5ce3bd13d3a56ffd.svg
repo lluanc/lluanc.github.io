@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>checkmark-done-check-square</title>
+    <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-/-Home-/-Plataforma-/-Conteúdos" transform="translate(-81.000000, -311.000000)">
+            <g id="Group-7" transform="translate(80.000000, 197.000000)">
+                <g id="Graduate-Hat" transform="translate(0.000000, 112.000000)">
+                    <polygon id="Path" opacity="0" points="0 2.27248775e-16 24 2.27248775e-16 24 24 0 24"></polygon>
+                    <g id="Group" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.555500, 3.500250)" stroke="#FF4B8C">
+                        <path d="M7.1475,0.59475 L0.9735,4.02475 C-0.3245,4.74575 -0.3245,6.61175 0.9735,7.33275 L7.1475,10.76275 C8.5755,11.55575 10.3125,11.55575 11.7415,10.76275 L17.9155,7.33275 C19.2135,6.61175 19.2135,4.74575 17.9155,4.02475 L11.7415,0.59475 C10.3125,-0.19825 8.5765,-0.19825 7.1475,0.59475 Z" id="Path" stroke-width="1.419"></path>
+                        <path d="M3.4355,8.69975 L3.4355,12.62375 C3.4355,13.57275 3.9105,14.45775 4.6995,14.98275 L6.3065,16.05175 C8.2075,17.31575 10.6815,17.31575 12.5815,16.05175 L14.1885,14.98275 C14.9785,14.45775 15.4525,13.57175 15.4525,12.62375 L15.4525,8.69975" id="Path" stroke-width="1.4167"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
